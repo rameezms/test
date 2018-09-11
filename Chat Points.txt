@@ -1,0 +1,69 @@
+1.New Chat :Welcome greetings, can lack the respect
+2.How to say (i dont know)
+	@That is a good question; let me find out for you
+	@I’m not sure, but let me find out for you
+	@I’m sorry; I don’t have the information on that. May I put you on hold for a few 		minutes? I will clarify this with our manager
+	
+3.Empathize: For angry,rude,stressed customers
+•	You’re right.
+•	I can definitely understand
+•	I truly apologize for the inconvenience you have faced.
+•	We regret the inconvenience caused.
+•	I would have felt the same, if that had happened to me. 
+
+4.	How to say “No”
+
+	@never say a blank NO, combine with i am sorry for e.g I`m Sorry we currently not having/providing this that at the moment,Would you like to receive an email update?
+
+5.	How to handle complaints and angry customers:
+
+@I am really sorry this has happened. Let me see if I can find a solution to it
+@ “I’m sorry this has happened. I understand your frustration, and I will do my best to help you.”
+
+6.	Use correct spelling and punctuation:
+
+@keyboard errors Helpp
+@Wrong sentence e.g 
+
+7.	How to handle several customers simultaneously: 
+
+@Gain sometime
+@
+
+“I’m sorry for the delay on my part. I am pulling up your account details. Please allow me another minute. I’ll be back with you right away”
+
+
+==========================================================================================
+
+1.Hello Mubeen,
+-Please allow me sometime,While i fetch up details of your server.
+-Thank you for providing me sometime, I have checked the issue it`s due to CDN You are right.
+-Please allow me to create a ticket for this issue, It will be resolved by mean time
+-Thank you for sharing this issue with us, We are happy to see you here
+-Here is your ticket ID:123456 
+-Is there anything else i can assist you with?
+-No,Thanks.
+
+2.
+Thank you for being with us, Can you please provide us a bit more details 
+he said Website
+Alright, I would suggest you to acquire host Hosting packages from Cloudways where you Host your website 24,7 LIve 
+It will wonderful for your new bussiness
+
+3.Sir, Can you please provide me some more details ?
+
+4.I am so sorry to hear this, I will definately assist you with this
+It seems you have reached your quota, You will have to upgrade your server
+
+5.We are sorry for the downtime, Let me check with you SQL Server
+
+6.For sure, I will transfer it for you.
+
+7.Yes i have just checked it`s giving an error, Let me check how you can resolve this.
+Yes i am with you, Please allow me sometime.
+It can be resolved by .htaccess file
+
+8.Sorry to hear this, You can easily fix it by going to SMTP Settings and change the settings from there.
+
+
+
